@@ -1,7 +1,7 @@
 <h1>Inventory Management System</h1>
 
 <h2>Description</h2>
-In this project I have created an inventory management system that will help a bussiness that sells shoes to be able to handle their inventory in an efficient manner.
+In this project I have created an inventory management system to help a bussiness that sells shoes to be able to handle their inventory in an efficient manner.
 <br />
 
 

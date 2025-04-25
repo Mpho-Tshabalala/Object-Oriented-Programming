@@ -18,9 +18,3 @@ The program reads stock data from a text file, processes it using Python data st
 - Python 3  
 - File I/O  
 - Lists, Dictionaries, and basic OOP concepts
-
-## 📁 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git

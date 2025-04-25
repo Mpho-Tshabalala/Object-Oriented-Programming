@@ -1,15 +1,26 @@
-<h1>Inventory Management System</h1>
+# 🏷️ Warehouse Stock-Taking System (Nike-Inspired)
 
-<h2>Description</h2>
-In this project I have created an inventory management system to help a bussiness that sells shoes to be able to handle their inventory in an efficient manner.
-<br />
+This Python project simulates a stock management system designed around the operations of a Nike-style warehouse. It allows store managers to streamline stock-taking processes and improve overall inventory organization.
 
+## 📦 Features
 
-<h2>Languages and Utilities Used</h2>
+- **Search Products by Code**: Quickly look up any product using its unique code.
+- **Restock Low Inventory**: Identify the product with the lowest quantity and flag it for restocking.
+- **Highlight Abundant Inventory**: Find the product with the highest stock count.
+- **Total Value Calculation**: Automatically compute the total value of each item (Cost × Quantity).
 
-- <b>Python</b> 
-- <b>Tabulate</b>
+## 💡 How It Works
 
-<h2>Environments Used </h2>
+The program reads stock data from a text file, processes it using Python data structures, and provides actionable insights through a simple menu-driven interface.
 
-- <b>Windows 10</b> (21H2)
+## 🚀 Tech Stack
+
+- Python 3  
+- File I/O  
+- Lists, Dictionaries, and basic OOP concepts
+
+## 📁 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
